@@ -1,0 +1,435 @@
+.video{
+width: 100%;
+height: 587px;
+margin-top: -590px
+}
+.container-fluid{
+max-width: 1200px;
+margin: 0 auto;
+margin-top: 20px;
+}
+.logo{
+width: 56px;
+height: 49px;
+margin-left: 60px;
+}
+.navigator{
+margin-left: 855px;
+margin-top: -45px;
+margin-bottom: 10px;
+}
+.sing{
+width: 126px;
+height: 36px;
+border-radius: 5px;
+background-color: #5ea5dd;
+}
+.free{
+color: #ffffff;
+font-family: "Myriad Pro";
+font-size: 16px;
+font-weight: 400;
+line-height: 33px;
+text-transform: uppercase;
+}
+.login{
+width: 41px;
+height: 11px;
+color: #9aa4ab;
+font-family: "Myriad Pro";
+font-size: 16px;
+font-weight: 400;
+line-height: 36px;
+text-transform: uppercase;
+padding-left: 39px;
+padding-right: 39px;
+}
+.Skilldonor{
+width: 568px;
+height: 88px;
+color: #ffffff;
+font-family: "Myriad Pro";
+font-size: 49px;
+font-weight: 400;
+line-height: 43px;
+margin: 0 auto;
+text-align: center;
+padding-top: 89px;
+}
+.classes{
+width: 567px;
+height: 127px;
+color: #ffffff;
+font-family: "Myriad Pro";
+font-size: 28px;
+font-weight: 300;
+margin: 0 auto;
+text-align: center;
+padding-top: 140px;
+}
+.ing{
+padding-top: 200px;
+margin-left: 550px;
+
+}
+.categories{
+color: #323a45;
+font-family: "Myriad Pro";
+font-size: 37px;
+font-weight: 300;
+line-height: 43px;
+padding-top: 40px;
+padding-bottom: 40px;
+padding-left: 88px;
+}
+.the-number{
+width: 522px;
+height: 68px;
+color: #899097;
+font-family: "Myriad Pro";
+font-size: 20px;
+font-weight: 300;
+padding-bottom: 200px;
+padding-left: 88px;
+}
+.ro{
+text-align: center;	
+margin-bottom: 300px;
+}
+.rol{
+text-align: center;	
+margin-bottom: 500px;
+}
+.text{
+color: #323a45;
+font-family: "Myriad Pro";
+font-size: 30px;
+font-weight: 300;
+line-height: 43px;
+margin-top: 10px;
+}
+.music{
+margin-top: -29px;
+}
+.it{
+margin-top: 9px;
+}
+.history{
+margin-top: -10px;
+}
+.design{
+margin-top: -5px;
+}
+.hr{
+margin-bottom: 60px;
+}
+.tex{
+text-align: center;
+margin-bottom: 350px;
+}
+li {
+list-style-type: none; /* Убираем маркеры */
+}
+.photo{
+color: #5ea5dd;
+font-family: "Myriad Pro";
+font-size: 25px;
+font-weight: 300;
+line-height: 50px;
+text-decoration: underline;
+text-align: left;
+margin-left: 85px;
+}
+.painting{
+color: #5ea5dd;
+font-family: "Myriad Pro";
+font-size: 25px;
+font-weight: 300;
+line-height: 50px;
+text-decoration: underline;
+text-align: left;
+margin-left: 120px;
+}
+.correction{
+color: #5ea5dd;
+font-family: "Myriad Pro";
+font-size: 25px;
+font-weight: 300;
+line-height: 50px;
+text-decoration: underline;
+text-align: left;
+margin-left: 120px;
+}
+.fon{
+margin-top: -140px;
+}
+.lectures{
+color: #323a45;
+font-family: "Myriad Pro";
+font-size: 37px;
+font-weight: 300;
+line-height: 43px;
+margin-top: 70px;
+padding-left: 88px;
+}
+.rowww{
+margin-top: 50px;
+margin-bottom: 90px;
+margin-left: 130px;
+}
+.text-fundamentals{
+width: 230px;
+color: #5ea5dd;
+font-family: "Myriad Pro";
+font-size: 20px;
+font-weight: 300;
+}
+.text-november{
+color: #323a45;
+font-family: "Myriad Pro";
+font-size: 18px;
+font-weight: 300;
+}
+.clock{
+width: 16px;
+height: 16px;
+background-color: #5ea5dd;
+}
+.min{
+color: #9aa4ab;
+font-family: "Myriad Pro";
+font-size: 16px;
+font-weight: 400;
+line-height: 25px;
+margin-left: 30px;
+margin-top: -28px;
+}
+.thousand{
+font-family: "Myriad Pro";
+font-size: 20px;
+font-weight: 400;
+line-height: 25px;
+color: #323a45;
+margin-left: 90px;
+margin-top: -36px;
+}
+.rub{
+color: #9aa4ab;
+font-family: "Myriad Pro";
+font-size: 16px;
+font-weight: 400;
+line-height: 25px;
+margin-left: 135px;
+margin-top: -34px;
+}
+.two{
+color: #323a45;
+font-family: "Myriad Pro";
+font-size: 20px;
+font-weight: 400;
+line-height: 25px;
+margin-left: 110px;
+margin-top: -36px;
+}
+.ekaterina{
+width: 200px;
+color: #323a45;
+font-family: "Myriad Pro";
+font-size: 20px;
+font-weight: 300;
+}
+.knowledge{
+margin-top: 70px;
+padding-left: 88px;
+color: #323a45;
+font-family: "Myriad Pro";
+font-size: 37px;
+font-weight: 300;
+line-height: 43px;
+margin-bottom: 48px;
+}
+.please{
+color: #899097;
+font-family: "Myriad Pro";
+font-size: 20px;
+font-weight: 300;
+padding-left: 88px;
+margin-bottom: 300px;
+}
+.minn{
+width: 68px;
+height: 18px;
+color: #5ea5dd;
+font-family: "Myriad Pro";
+font-size: 25px;
+font-weight: 400;
+margin-left: 50px;
+margin-top: -28px;
+padding-bottom: 50px;
+}
+.Indentation{
+padding-left: 80px;
+}
+.onlin{
+color: #899097;
+font-family: "Myriad Pro";
+font-size: 18px;
+font-weight: 300;
+}
+.online{
+padding-left: 100px;
+margin-bottom: 50px;
+}
+.sin{
+width: 280px;
+height: 63px;
+border-radius: 3px;
+background-color: #7ac000;
+}
+.freer{
+width: 186px;
+height: 18px;
+color: #ffffff;
+font-family: "Myriad Pro";
+font-size: 26px;
+font-weight: 400;
+line-height: 36px;
+text-transform: uppercase;
+}
+.freee{
+margin-top: -130px;
+margin-left: 140px;
+}
+.tutors{
+color: #5ea5dd;
+font-family: "Myriad Pro";
+font-size: 20px;
+font-weight: 300;
+line-height: 34px;
+text-decoration: underline;
+margin-left: 35px;
+margin-top: -32px;
+margin-bottom: 50px;
+}
+.project{
+margin-top: 13px;
+margin-left: -50px;
+}
+.projec{
+color: #899097;
+font-family: "Myriad Pro";
+font-size: 20px;
+font-weight: 300;
+}
+.tupe{
+width: 255px;
+height: 36px;
+border-radius: 3px;
+border: 1px solid #bebebe;
+background-color: #ffffff;
+color: #899097;
+font-family: "Myriad Pro";
+font-size: 18px;
+font-weight: 300;
+}
+.butten{
+width: 76px;
+height: 36px;
+border-radius: 3px;
+background-color: #7ac000;
+}
+.butt{
+margin-top: -37px;
+margin-left: 423px;
+}
+.buten{
+color: #ffffff;
+font-family: "Myriad Pro";
+font-size: 16px;
+font-weight: 400;
+line-height: 36px;
+text-transform: uppercase;
+}
+.star{
+margin-left: 20px;
+margin-top: 14px;
+margin-right: 10px;
+color: #FFFAF0;
+display: inline-block;
+padding: 9px;
+background: #9aa4ab;
+width: 48px; height: 48px;
+border: 0px;
+border-radius: 100%;
+text-align: center;
+}
+.contact{
+margin-left: 10px;
+margin-top:10px;
+color: #FFFAF0;
+display: inline-block;
+padding: 9px;
+background: #9aa4ab;
+width: 48px; height: 48px;
+border: 0px;
+border-radius: 100%;
+text-align: center;
+}
+.gugle{
+margin-left: 20px;
+margin-top: 14px;
+color: #FFFAF0;
+display: inline-block;
+padding: 9px;
+background: #9aa4ab;
+width: 48px; height: 48px;
+border: 0px;
+border-radius: 100%; 
+text-align: center;
+}
+.andex{
+margin-left: 20px;
+margin-top: 15px;
+color: #FFFAF0;
+display: inline-block;
+padding: 9px;
+background: #9aa4ab;
+width: 48px; height: 48px;
+border: 0px;
+border-radius: 100%;
+text-align: center;
+}
+.mail{
+margin-left: -10px;
+margin-top: -100px;
+color: #FFFAF0;
+display: inline-block;
+padding: 9px;
+background: #9aa4ab;
+width: 48px; height: 48px;
+border: 0px;
+border-radius: 100%;
+text-align: center;
+}
+.bluid{
+color: #5ea5dd;
+}
+.bleack{
+color: #9aa4ab;
+}
+.luid{
+color: #5ea5dd;
+margin-left: 1px;
+margin-top: 15px;
+}
+.alignment{
+margin-left: 40px;
+margin-top: -9px;
+}
+input::-webkit-input-placeholder {
+padding-left: 20px;
+opacity: 0.4;
+color: #899097;
+font-family: "Myriad Pro";
+font-size: 20px;
+font-weight: 300;}
